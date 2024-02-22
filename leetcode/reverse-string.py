@@ -1,4 +1,6 @@
 class Solution:
+    #def reverse(self, left, right):
+
     def reverseString(self, s: List[str]) -> None:
         n = len(s) - 1
         #two pointers and recursion
